@@ -2,9 +2,7 @@
 Crumbl Cookie Flavors Website
 
 <a href="https://crumblcookieflavors.com/spoilers-next-weeks-flavors/">Crumbl Spoilers</a>
-
-Where to find Next Week's Crumbl Cookies flavors.
+*Where to find Next Week's Crumbl Cookies flavors.
 
 <a href="https://crumblcookieflavors.com/dubai-chocolate-brownie/">Crumbl Dubai Chocolate Brownie</a>
-
-Find out when the Dubai Chocolate Brownie will be available on the Crumbl rotating weekly menu.
+*Find out when the Dubai Chocolate Brownie will be available on the Crumbl rotating weekly menu.
