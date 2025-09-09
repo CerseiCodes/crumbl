@@ -10,5 +10,5 @@ Crumbl Cookie Flavors Website
 <a href="https://crumblcookieflavors.com/crumbl-dirty-sodas/">Crumbl Dirty Sodas</a>
 *Information on where to find the Crumbl Dirty Soda locations in the United States and Canada
 
-<a href="https://crumblcookieflavors.com/mystery-crumbl-cookie-flavors-location/">Crumbl Dirty Sodas</a>
+<a href="https://crumblcookieflavors.com/mystery-crumbl-cookie-flavors-location/">Crumbl Secret Menu in App</a>
 *Crumbl secret app menu with mystery flavors and cookies
