@@ -5,3 +5,6 @@ Crumbl Cookie Flavors
 
 Where to find Next Week's Crumbl Cookies flavors.
 
+<a href="https://crumblcookieflavors.com/dubai-chocolate-brownie/">Crumbl Dubai Chocolate Brownie</a>
+
+Find out when the Dubai Chocolate Brownie will be available on the Crumbl rotating weekly menu.
